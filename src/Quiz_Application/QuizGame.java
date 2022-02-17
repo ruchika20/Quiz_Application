@@ -22,7 +22,7 @@ public class QuizGame extends JFrame implements ActionListener{
     
     QuizGame(String username){
         
-        super("");
+        super("It's Quiz Game");
         setBounds(100,50,1200,640);
         getContentPane().setBackground(Color.WHITE);
         setLayout(null);
